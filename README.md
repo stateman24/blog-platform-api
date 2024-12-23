@@ -105,7 +105,7 @@ The Blog API allows users to create, read, update, and delete blog posts. It is 
 ---
 
 #### 3. Get a Single Blog Post
-**URL:** `/api/blogs/6766c8464451aef40dc82449`
+**URL:** `/posts/6766c8464451aef40dc82449`
 
 **Method:** `GET`
 
