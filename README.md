@@ -1,6 +1,9 @@
 # Blog API Documentation
 ## Introduction
 The Blog API allows users to create, read, update, and delete blog posts. It is built using Node.js and Express, with MongoDB as the database. The API is structured to provide a seamless experience for managing blog content.
+
+Sample solution for the [Blog API](https://roadmap.sh/projects/blogging-platform-api) challenge from [roadmap.sh](https://roadmap.sh/).
+
 ---
 ## Setup Instructions
 
